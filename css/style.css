@@ -46,13 +46,6 @@ body nav :hover {
   color: orange;
   margin-top: 50px;
 }
-
-#sponsor {
-  margin-top: 100px !important;
-  margin-left: 810px !important;
-  width: 200px;
-}
-
 /*footer*/
 footer nav div {
   margin: 0px;
@@ -134,7 +127,7 @@ fieldset legend {
 form {
   background-color: orange !important;
   margin-top: 100px;
-  margin-bottom: 200px;
+  margin-bottom: 20px;
   margin-left: 10px;
   margin-right: 10px;
   border-color: black;
@@ -147,12 +140,11 @@ form div {
   padding: 20px 20px;
 }
 
-
+/*ubicacion*/
 .responsive-video {
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 60px;
-  overflow: hidden;
 }
 
 /*prueba de ubicacion*/
